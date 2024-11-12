@@ -1,5 +1,5 @@
-# Ex. No.6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 16.10.2024
+# Ex. No. 6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 11/11/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -29,7 +29,6 @@
 
 ### d. Path Planning:
 ### Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
 
 ### ●	All the processes related to pre-processing will be shown on the screen.
@@ -39,18 +38,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![1](https://github.com/user-attachments/assets/78ec5de9-4f49-4a5e-b5b2-c6da095dc032)
-![2](https://github.com/user-attachments/assets/11d1628f-aab9-4542-a24f-e79d5107f664)
-![3](https://github.com/user-attachments/assets/6154ed9c-0628-46b6-b6a3-2e79bb40793a)
+![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
+![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
+![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
+## Output:
+![Screenshot 2024-05-05 214120](https://github.com/Manisrii21/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147140163/689a1e1a-eb34-416e-adbf-33426bdbd469)
 
-
-
-
-
-
-### Name:SHREE LEKHA.S
-### Register Number: 212223110052
+### Name: NISHA D
+### Register Number:212223230143
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
