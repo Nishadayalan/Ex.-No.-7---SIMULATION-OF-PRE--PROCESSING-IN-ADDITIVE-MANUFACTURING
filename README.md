@@ -1,5 +1,5 @@
-# Ex. No. 6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 11/11/2024
+# Ex. No.6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -29,6 +29,7 @@
 
 ### d. Path Planning:
 ### Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.
+
 ![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
 
 ### ●	All the processes related to pre-processing will be shown on the screen.
@@ -37,16 +38,17 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
+### Name: NISHA D
+### Register Number: 212223230143
+
+
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![image](https://github.com/Gchethankumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/894c8c56-af18-402b-9c80-9e423ca7f25c)
+![image](https://github.com/Gchethankumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/75ff7012-328e-4e21-9f2c-f4f578e8d916)
+![image](https://github.com/Gchethankumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/033904b2-9e90-4144-9d79-129da7290de4)
 
 ## Output:
-![Screenshot 2024-05-05 214120](https://github.com/Manisrii21/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147140163/689a1e1a-eb34-416e-adbf-33426bdbd469)
-
-### Name: NISHA D
-### Register Number:212223230143
+![image](https://github.com/Gchethankumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/2bac5e3c-aa8f-4378-81f2-22e511d06c6a)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
